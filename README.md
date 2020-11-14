@@ -5,7 +5,7 @@ Photos not included:
 2. Some are pretty embarrassing o_o
 
 Commands not to use because they won't work without other files:
-mb sendmelly
-mb ope
+1. mb sendmelly
+1. mb ope
 
 Again, a pretty messy project I did back in January, but maybe you can find something useful in there.
